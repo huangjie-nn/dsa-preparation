@@ -1,3 +1,4 @@
-# leetcode journal
-This repo records my daily leetcode practice.
-It is organized by category.
+# Data structure and algorithm study notes
+
+This repo contains study notes about data structure and algorithm
+
