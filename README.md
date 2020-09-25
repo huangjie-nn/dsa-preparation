@@ -19,23 +19,23 @@ This repo contains study notes about data structure and algorithm.
 
 - [ ] Algorithm analysis
 - [ ] Searching and sorting
-- [ ] greedy algorithms
+- [ ] Greedy algorithms
 - [ ] Dynamic Programming
 - [ ] Pattern Searching
-- [ ] other string algorithms
+- [ ] Other string algorithms
 - [ ] Backtracking
 - [ ] Divide and conquer
 - [ ] Geometric algorithms
 - [ ] Mathematical algorithms
 - [ ] Bit algorithms
-- [ ] graph algorithms
-- [ ] randomized algorithms
+- [ ] Graph algorithms
+- [ ] Randomized algorithms
 
 ## roadmap
 
 * Get familiarized with concept, common problems and template solutions
 
-  - [ ] [Data structure and algorithm GeeksforGeeks **DOING**](https://www.geeksforgeeks.org/)
+  - [ ] [Data structure and algorithm GeeksforGeeks (**DOING**)](https://www.geeksforgeeks.org/)
   
   - [ ] [MIT algorithm course playlist](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
   
