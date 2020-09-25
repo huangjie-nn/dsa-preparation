@@ -4,8 +4,8 @@ This repo contains study notes about data structure and algorithm.
 
 ## data structure
 - [x] Array
-- [ ] LinkedList (**DOING**)
-- [ ] Stack
+- [x] LinkedList 
+- [ ] Stack (**DOING**)
 - [ ] Queue
 - [ ] Binary Tree
 - [ ] Binary Search Tree
@@ -41,14 +41,15 @@ This repo contains study notes about data structure and algorithm.
   
   - [ ] [Cracking the coding interview HackerRank playlist](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
   
+  - [ ] Take coursera courses (maybe) [San Diego](https://www.coursera.org/specializations/data-structures-algorithms) and [Standford](https://www.coursera.org/specializations/algorithms)
+  
   
 * Practice
   - [ ] [HackerRank](https://www.hackerrank.com/)
+  
 
     
-
-
-
+## 欲速则不达
 
 
 
