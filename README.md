@@ -5,8 +5,8 @@ This repo contains study notes about data structure and algorithm.
 ## data structure
 - [x] Array
 - [x] LinkedList 
-- [ ] Stack (**DOING**)
-- [ ] Queue
+- [x] Stack 
+- [ ] Queue (**DOING**)
 - [ ] Binary Tree
 - [ ] Binary Search Tree
 - [ ] Heap
